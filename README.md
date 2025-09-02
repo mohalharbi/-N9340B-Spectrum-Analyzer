@@ -33,7 +33,7 @@ NumPy version: 2.2.1
 
 vxi11 version: 0.9
 
-# Quick Start
+# Quick Start:
 
 | Step | Action               | Description                                                            |
 | ---- | -------------------- | ---------------------------------------------------------------------- |
@@ -46,6 +46,6 @@ vxi11 version: 0.9
 | 7    | View results         | Data is displayed on the embedded interactive plot                     |
 
 
-# GUI Screenshot
+# GUI Screenshot:
 
 ![GUI Connection Screen](spectrum_GUI.JPG) 
