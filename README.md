@@ -43,3 +43,6 @@ vxi11 version: 0.9
 | 5    | Configure parameters | Set Start/Stop frequency, Step size, and Input attenuation             |
 | 6    | Start sweep          | Click **Start Sweep** to capture readings                              |
 | 7    | View results         | Data is displayed on the embedded interactive plot                     |
+
+
+![GUI Connection Screen](screenshots/connection.png) 
