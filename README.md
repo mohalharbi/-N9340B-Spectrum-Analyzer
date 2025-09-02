@@ -45,4 +45,4 @@ vxi11 version: 0.9
 | 7    | View results         | Data is displayed on the embedded interactive plot                     |
 
 
-![GUI Connection Screen](screenshots/connection.png) 
+![GUI Connection Screen](spectrum_GUI.JPG) 
