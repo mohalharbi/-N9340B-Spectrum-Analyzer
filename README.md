@@ -3,21 +3,21 @@ This Python-based GUI tool provides an interface to communicate with the Keysigh
 
 
 # features:
-Connect to the spectrum analyzer using its IP address
+- Connect to the spectrum analyzer using its IP address
 
-Configure measurement parameters:
+- Configure measurement parameters:
 
-Start frequency
+  o Start frequency
+  
+  o Stop frequency
+  
+  o Frequency step size
+  
+  o Input attenuation
 
-Stop frequency
+- Perform frequency sweeps with the Start Sweep button
 
-Frequency step size
-
-Input attenuation
-
-Perform frequency sweeps with the Start Sweep button
-
-Display readings on interactive plots embedded in the GUI
+- Display readings on interactive plots embedded in the GUI
 
 # libraries:
 
