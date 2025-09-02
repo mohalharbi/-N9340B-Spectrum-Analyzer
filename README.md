@@ -33,6 +33,7 @@ NumPy version: 2.2.1
 
 vxi11 version: 0.9
 
+# Quick Start
 
 | Step | Action               | Description                                                            |
 | ---- | -------------------- | ---------------------------------------------------------------------- |
@@ -44,5 +45,7 @@ vxi11 version: 0.9
 | 6    | Start sweep          | Click **Start Sweep** to capture readings                              |
 | 7    | View results         | Data is displayed on the embedded interactive plot                     |
 
+
+# GUI Screenshot
 
 ![GUI Connection Screen](spectrum_GUI.JPG) 
